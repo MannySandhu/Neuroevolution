@@ -1,4 +1,4 @@
-The system can be run from the eclipse IDE.
+The program can be run from the eclipse IDE.
 
 1 - Import the project into eclipse
 2 - Open classes from mannySandhu.neuroevolution.tce.train
